@@ -7,7 +7,7 @@ import img3 from "../assets/img3.jpeg";
 const Cards = () => {
   return (
     <div>
-      <h1 className="header">Cards Using React</h1>
+      <h1 className="header">Card-UI Using React and Bootstrap</h1>
       <div className="container-fluid d-flex justify-content-center">
         <div className="row">
           <div className="col-md-4">
